@@ -1,0 +1,22 @@
+.dep
+
+# Ignore all .log files
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore .vercel directory
+.vercel
+
+# Ignore all .mp4 files in the public directory
+public/*.mp4
+
+# Ignore all files in the "temp" directory
+temp/
+
+# Ignore practice directory
+practice/
+
+# Ignore all .tmp files in any directory
+**/*.tmp
